@@ -1,0 +1,15 @@
+.bgAqua{
+    background-color: aqua;
+}
+.bgCoral{
+    background-color: coral;
+}
+.bgGold{
+    background-color: gold;
+}
+.border0005px{
+    border: #000 5px solid;
+}
+.borderf005px{
+    border: #f00 5px solid;
+}

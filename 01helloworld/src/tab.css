@@ -1,0 +1,6 @@
+.content.active{
+  display: block;
+}
+.content{
+  display: none;
+}
