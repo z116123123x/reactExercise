@@ -1,0 +1,186 @@
+{
+    "data": {
+        "list": [
+            {
+                "name": "酉陽縣",
+                "province":"重庆",
+                "confirm":1,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "未明確地區",
+                "province":"山东",
+                "confirm":9,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "保停縣",
+                "province":"海南",
+                "confirm":2,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "未明確地區",
+                "province":"广东",
+                "confirm":null,
+                "suspect":null,
+                "heal":7,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "津南",
+                "province":"天津",
+                "confirm":1,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "未明確地區",
+                "province":"甘肃",
+                "confirm":1,
+                "suspect":null,
+                "heal":1,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "未明確地區",
+                "province":"云南",
+                "confirm":null,
+                "suspect":null,
+                "heal":1,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "未明確地區",
+                "province":"云南",
+                "confirm":null,
+                "suspect":null,
+                "heal":1,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "澎水縣",
+                "province":"重庆",
+                "confirm":2,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "文山州",
+                "province":"重庆",
+                "confirm":1,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "文昌",
+                "province":"海南",
+                "confirm":1,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":1
+            },
+            {
+                "name": "楚雄",
+                "province":"云南",
+                "confirm":4,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":2
+            },
+            {
+                "name": "東簡區",
+                "province":"天津",
+                "confirm":3,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":2
+            },
+            {
+                "name": "臨倉",
+                "province":"云南",
+                "confirm":1,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":3
+            },
+            {
+                "name": "昌江縣",
+                "province":"海南",
+                "confirm":3,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":3
+            },
+            {
+                "name": "定安縣",
+                "province":"海南",
+                "confirm":3,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":3
+            },
+            {
+                "name": "懷柔",
+                "province":"北京",
+                "confirm":4,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":4
+            },
+            {
+                "name": "門頭溝",
+                "province":"北京",
+                "confirm":3,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":4
+            },
+            {
+                "name": "東城",
+                "province":"北京",
+                "confirm":6,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":4
+            },
+            {
+                "name": "順義",
+                "province":"北京",
+                "confirm":6,
+                "suspect":null,
+                "heal":null,
+                "dead":null,
+                "page":4
+            }
+        ]
+    }
+}

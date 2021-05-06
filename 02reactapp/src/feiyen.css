@@ -1,0 +1,30 @@
+/* ul>li:nth-of-type(odd){
+    background-color: rgba(255, 0, 0, 0.178);
+} */
+
+* {
+    padding: 0px 10px;
+}
+
+li {
+    display: flex;
+}
+
+span {
+    flex: 1;
+}
+
+li > span:nth-of-type(2n) {
+    background-color: rgba(255, 0, 255, 0.178);
+}
+
+li > span:nth-of-type(2n + 1) {
+    background-color: rgba(0, 0, 255, 0.178);
+}
+
+#map {
+    width: 600px;
+    height: 450px;
+    margin: 150px auto;
+    border: 1px solid #ddd;
+}
